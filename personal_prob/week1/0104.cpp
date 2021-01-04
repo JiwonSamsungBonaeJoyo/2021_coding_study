@@ -1,4 +1,4 @@
-//1945. 소인수분해
+//sw expert academy d2. 1945. 소인수분해
 #include<iostream>
 using namespace std;
 
